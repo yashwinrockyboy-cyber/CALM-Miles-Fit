@@ -1,0 +1,6 @@
+{
+  "name": "KNMS Safe Route",
+  "description": "CALM-Miles: Safe, peaceful cycling and walking routes for everyone in Trichy — students, commuters, and daily walkers. Verified safety zones, live GPS, and voice navigation.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
